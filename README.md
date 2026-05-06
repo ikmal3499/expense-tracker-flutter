@@ -1,16 +1,25 @@
-# expense_tracker
+# 💰 Personal Expense Tracker
+> 📱 Mobile Developer Take-Home Assignment Submission
 
-A new Flutter project.
+A lightweight Flutter application that allows users to track personal expenses. Built with a focus on clean architecture, predictable state management, and local data persistence.
 
-## Getting Started
+## ✨ Features
+- ✅ Add new expenses (title, amount, date)
+- ✅ View a scrollable list of expenses
+- ✅ Local persistence using `shared_preferences` (data survives app restarts)
+- ✅ Handles UI states: Empty, Loading, Error
+- ✅ Form validation & basic error handling
+- ✅ Clean, minimal Material 3 UI
 
-This project is a starting point for a Flutter application.
+## 🚀 How to Run
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 Prerequisites
+- Flutter SDK installed ([flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install))
+- Android Studio / Xcode (for emulators)
+- At least one connected device (emulator or physical phone)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 💻 Step-by-Step
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ikmal3499/expense-tracker-flutter.git
+   cd expense-tracker-flutter
