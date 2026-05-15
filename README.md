@@ -23,3 +23,7 @@ A lightweight Flutter application that allows users to track personal expenses. 
    ```bash
    git clone https://github.com/ikmal3499/expense-tracker-flutter.git
    cd expense-tracker-flutter
+   
+### 💻 Login
+- email: test@mail.com
+- password: 123456
