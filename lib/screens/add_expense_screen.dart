@@ -42,7 +42,7 @@ class _AddExpenseScreenState extends State<AddExpenseScreen> {
     if (picked != null) setState(() => _selectedDate = picked);
   }
 
-   @override
+  @override
   Widget build(BuildContext context) {
     // 🎨 Color Scheme: Red & White Minimalist
     const primaryRed = Color(0xFFE53935);
